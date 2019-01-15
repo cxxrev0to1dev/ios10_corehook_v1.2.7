@@ -1,0 +1,11 @@
+Package: com.zbk.none.auto.click.disp
+Name: com.zbk.none.auto.click.disp
+Depends: 
+Architecture: iphoneos-arm
+Description: An awesome tool of some sort!!
+Maintainer: dengtao
+Author: dengtao
+Section: System
+Tag: role::hacker
+Version: 0.0.1-3+debug
+Installed-Size: 132
